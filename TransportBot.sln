@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportBot", "src\TransportBot\TransportBot.csproj", "{30285DDF-6403-4638-956B-36CABFB8D358}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{59F8FEFD-897B-46FB-BC92-B24D103CAFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30285DDF-6403-4638-956B-36CABFB8D358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30285DDF-6403-4638-956B-36CABFB8D358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30285DDF-6403-4638-956B-36CABFB8D358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30285DDF-6403-4638-956B-36CABFB8D358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30285DDF-6403-4638-956B-36CABFB8D358} = {59F8FEFD-897B-46FB-BC92-B24D103CAFDE}
+	EndGlobalSection
+EndGlobal
